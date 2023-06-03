@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  django-iris-todo:
+  - annotations:
+      intersystems/sds-category: sample
+      intersystems/sds-organization: InterSystems Corporation
+      intersystems/sds-title: Simple TODO App built with Django
+    apiVersion: v2
+    appVersion: 1.2.0
+    created: "2023-06-03T11:49:09.553109-04:00"
+    description: CaretDev's simple todo app built with django turned into a Smart
+      Data Service with support for dependency injection
+    digest: 4b97ae440ca1167e7d67ab20c06f737b660c55e7198a1ce79ed709c35e04ff9f
+    icon: https://isc-asamary.github.io/asamary-sds-charts/django-iris-todo/icon.jpeg
+    name: django-iris-todo
+    type: application
+    urls:
+    - https://isc-asamary.github.io/asamary-sds-charts/django-iris-todo-0.2.0.tgz
+    version: 0.2.0
+generated: "2023-06-03T11:49:09.552508-04:00"
